@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am currently working software development and backend automation.<br>I am open to work with all open minded friends who is ready to upbring careers.<br>
+I’m a Computer Science undergraduate with a strong focus on networking and backend development. I’m passionate about building practical, real-world systems that solve meaningful problems rather than just theoretical projects.
+
+
+My goal is to become a highly skilled engineer in DevOps and software development before graduation, with the ability to design scalable, secure, and efficient systems. I actively learn by building, experimenting, and breaking things—then improving them.
+
+I’m particularly interested in:
+
+* Backend system design and APIs
+* Cloud integration and deployment workflows
+* Networking concepts and real-time systems
+* Automation using Python
+
+I’m always open to opportunities where I can contribute, learn fast, and work on impactful projects.
 
 
 ## 🌐 Socials:
